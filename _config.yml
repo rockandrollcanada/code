@@ -27,7 +27,9 @@ social_username: jekyllrb
 
 # Set theme color here
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
-theme_color: black
+remote_theme: broccolini/swiss
+
+theme_color: magenta
 
 # Build settings
 markdown: kramdown

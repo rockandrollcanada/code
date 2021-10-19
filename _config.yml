@@ -29,7 +29,7 @@ social_username: glenrockinsmith
 # Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
 remote_theme: broccolini/swiss
 
-theme_color: magenta
+theme_color: orange
 
 # Build settings
 markdown: kramdown

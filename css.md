@@ -19,4 +19,5 @@ Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo V
 ## Themes
 
 ![Coderock Canada](https://ibb.co/wCy73z6)
+
 ## Installation

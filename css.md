@@ -16,10 +16,33 @@ Swiss is a bold Jekyll theme inspired by Swiss design and the works of Massimo V
 * Simple styling for code snippets (if you want something with syntax highlighting, checkout ....)
 * Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
 
-## Themes
+```
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+</style>
+</head>
+<body>
+
+<h1>My First CSS Example</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
 
 
-![Coderock](https://ibb.co/wCy73z6) 
-
-
-## Installation
+```
